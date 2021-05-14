@@ -17,4 +17,4 @@ The profile will saved and a shortcut will be created on your desktop to easily 
 6. Follow the shown steps to create a new DOSBox profile!
 
 ## Screenshot
-![Screenshot 1](URL_HERE)
+![Screenshot 1](https://github.com/Techcrafter/DOSBox-GUI/raw/main/docs/screenshots/screenshot1.png)
